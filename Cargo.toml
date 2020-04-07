@@ -1,0 +1,10 @@
+[package]
+name = "game-engine"
+version = "0.1.0"
+authors = ["Kiril Videlov <kiril.vi@runbox.no>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+glutin = "0.24.0"
